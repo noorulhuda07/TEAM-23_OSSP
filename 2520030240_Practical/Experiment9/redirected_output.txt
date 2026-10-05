@@ -1,0 +1,2 @@
+This output has been redirected to a file.
+dup2() makes the file descriptor act as standard output.

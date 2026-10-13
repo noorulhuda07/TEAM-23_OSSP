@@ -1,0 +1,17 @@
+# Compiled executables for Experiments 9–12
+/Experiment-09/file_copy_stdio
+/Experiment-09/file_copy_syscalls
+/Experiment-09/io_redirection
+/Experiment-09/lseek_demo
+/Experiment-10/mmap_file
+/Experiment-11/mutex_counter
+/Experiment-11/race_condition
+/Experiment-12/deadlock_demo
+/Experiment-12/deadlock_prevention
+/Experiment-12/producer_consumer
+
+# Generated test output
+/Experiment-09/output.txt
+/Experiment-09/output_stdio.txt
+/Experiment-09/redirected_output.txt
+/Experiment-10/inode_demo/

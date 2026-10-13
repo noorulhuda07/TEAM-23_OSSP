@@ -1,0 +1,4 @@
+fork_exec_wait
+file_copy_syscalls
+copied.txt
+strace_cat.log
